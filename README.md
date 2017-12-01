@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. K MEANS ALGORITHM <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Simulates the K means algorithm for 10 iterations <br /> <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. IMAGE COMPRESSION <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs;p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Applies the K means algorithm to compress a given image <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Applies the K means algorithm to compress a given image <br />
  <br />
  <br />
 # Members:
