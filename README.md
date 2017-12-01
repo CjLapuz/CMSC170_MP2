@@ -9,6 +9,6 @@
  <br />
  <br />
 # Members:
-### [PROFILE](https://github.com/wgns) Wina Gen Sotto <br />
-### [PROFILE](https://github.com/CjLapuz) Christian Jeremy Lapuz <br />
-### [PROFILE](https://www.facebook.com/pctkXD) Paul Christian Kiunisala <br />
+### [ [PROFILE](https://github.com/wgns) ] Wina Gen Sotto <br />
+### [ [PROFILE](https://github.com/CjLapuz) ] Christian Jeremy Lapuz <br />
+### [ [PROFILE](https://www.facebook.com/pctkXD) ] Paul Christian Kiunisala <br />
