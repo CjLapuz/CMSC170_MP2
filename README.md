@@ -1,6 +1,6 @@
 # Computer Science 170: Introduction to Artificial Intelligence <br>
 ## Machine Problem 2  <br /> <br />
-&nbsp;&nbsp;&nbsp&nbsp; Consists of Two Parts: <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Consists of Two Parts: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. K MEANS ALGORITHM <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Simulates the K means algorithm for 10 iterations <br /> <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. IMAGE COMPRESSION <br />
